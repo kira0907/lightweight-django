@@ -12,6 +12,7 @@
 ## 커리큘럼
 
 seq.|날짜|내용|담당자|발표자료
+--|--|--|--|--
 1|2015/09/05/(Github, IPython)소개, Chapter 1. The World's Smallest Django Project|정광윤|
 2|2015/09/12/Chapter 2. Stateless Web Application||
 3|2015/09/19/Chapter 3. Building a Static Site Generator||
