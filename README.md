@@ -9,6 +9,15 @@
 
 ---
 
+## 교재 정보
+
+![](http://akamaicovers.oreilly.com/images/0636920032502/cat.gif)
+
+- Shop: http://shop.oreilly.com/product/0636920032502.do
+- Example Source: https://github.com/lightweightdjango/examples
+
+---
+
 ## 스터디 Material
 
 스터디를 하면서 매 챕터별 매터리얼은 꼭 남겨주시길 바랍니다. 모든 자료는 Github에서 오픈을 할 예정이고요. 어떤 형태로든 남겨주시길 원하지만 되도록 IPython notebook이 되길 바랍니다.
