@@ -9,14 +9,20 @@
 
 ---
 
+## 스터디 Material
+
+스터디를 하면서 매 챕터별 매터리얼은 꼭 남겨주시길 바랍니다. 모든 자료는 Github에서 오픈을 할 예정이고요. 어떤 형태로든 남겨주시길 원하지만 되도록 IPython notebook이 되길 바랍니다.
+
+---
+
 ## 커리큘럼
 
 seq.|날짜|내용|담당자|발표자료
 ---|---|---|---|---
 1|2015/09/05|(Github, IPython)소개, Chapter 1. The World's Smallest Django Project|정광윤|
-2|2015/09/12|Chapter 2. Stateless Web Application||
-3|2015/09/19|Chapter 3. Building a Static Site Generator||
-4|2015/09/26|Chapter 4. Building a REST API, 추석으로 인해 일정 논의 필요||
+2|2015/09/12|Chapter 2. Stateless Web Application|곽규남|
+3|2015/09/19|Chapter 3. Building a Static Site Generator|오정배|
+4|2015/09/26|Chapter 4. Building a REST API, 추석으로 인해 일정 논의 필요|정광윤|
 5|2015/10/03|Chapter 5. Client-Side Django with Backbone.js||
 6|2015/10/10|Chapter 6. Single-Page Web Application||
 7|2015/10/17|Chapter 7. Real-Time Django||
