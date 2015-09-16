@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>examples-chapter-1</string>
+		<string>examples-chapter-2</string>
+		<string>examples-chapter-3</string>
+		<string>examples-chapter-4</string>
+		<string>examples-chapter-5</string>
+		<string>examples-chapter-6</string>
+		<string>examples-chapter-7</string>
+		<string>examples-chapter-8</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>

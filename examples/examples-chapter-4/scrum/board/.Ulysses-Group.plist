@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>migrations</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>__init__.py</string>
+		</array>
+		<array>
+			<string>forms.py</string>
+		</array>
+		<array>
+			<string>models.py</string>
+		</array>
+		<array>
+			<string>serializers.py</string>
+		</array>
+		<array>
+			<string>tests.py</string>
+		</array>
+		<array>
+			<string>urls.py</string>
+		</array>
+		<array>
+			<string>views.py</string>
+		</array>
+	</array>
+</dict>
+</plist>
