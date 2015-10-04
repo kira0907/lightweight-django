@@ -1,7 +1,8 @@
 €}q(U
-scrum.wsgi]qUapplicationqaUboard.migrations.0001_initial]qU	MigrationqaUscrum]Uboard.serializers]qUSprintSerializerqaUboard.migrations]Umanage]U
-scrum.urls]qUurlpatternsq	aUboard.admin]Uboard.tests]Uboard.views]Uboard]Uboard.models]q
-(USprintqUTaskqeUserializers]Ushutil]q(UcopyfileqUignore_patternsqUcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeqUmake_archiveqUmoveqUunregister_archive_formatqUrmtreeqUErrorqUcopyqU	ExecErrorqUcopy2qUSpecialFileErrorqUcopystatqUWindowsErrorqeUos]q (Upopen4q!Uexecleq"Upopen3q#USEEK_CURq$Uspawnlpq%Uexeclpq&Uenvironq'Uspawnvpq(Uspawnlq)Uexecvpq*Umakedirsq+Ulinesepq,UP_WAITq-Uspawnvq.Uspawnveq/Uexecvpeq0Uunsetenvq1USEEK_SETq2Ugetenvq3Upopen2q4Uwalkq5Uspawnleq6Uexeclq7Unameq8USEEK_ENDq9Uspawnlpeq:U	P_NOWAITOq;UP_NOWAITq<U
-removedirsq=Urenamesq>Uspawnvpeq?Uexeclpeq@eUscrum.settings]qA(UUSE_L10NqBULANGUAGE_CODEqCUUSE_TZqDUUSE_I18NqEU	DATABASESqFU	TIME_ZONEqGU
-STATIC_URLqHUROOT_URLCONFqIUTEMPLATE_DEBUGqJUWSGI_APPLICATIONqKUMIDDLEWARE_CLASSESqLUDEBUGqMUALLOWED_HOSTSqNU
-SECRET_KEYqOUINSTALLED_APPSqPUBASE_DIRqQeu.
+scrum.wsgi]qUapplicationqaUboard.migrations.0001_initial]qU	MigrationqaUscrum]Userializers]Uos]q(Upopen4qUexecleqUpopen3q	USEEK_CURq
+UspawnlpqUexeclpqUenvironqUspawnvpqUspawnlqUexecvpqUmakedirsqUlinesepqUP_WAITqUspawnvqUspawnveqUexecvpeqUunsetenvqUSEEK_SETqUgetenvqUpopen2qUwalkqUspawnleqUexeclqUnameqUSEEK_ENDqUspawnlpeq U	P_NOWAITOq!UP_NOWAITq"U
+removedirsq#Urenamesq$Uspawnvpeq%Uexeclpeq&eUboard.migrations]U
+board.urls]q'Urouterq(aUmanage]U
+scrum.urls]q)Uurlpatternsq*aUboard.models]q+(USprintq,UTaskq-eUboard.tests]Uboard.views]q.(UUserViewSetq/USprintViewSetq0UTaskViewSetq1UDefaultsMixinq2UUserq3eUboard]U(board.migrations.0002_auto_20151004_0627]q4haUboard.admin]Uboard.serializers_old_01]q5(UUserSerializerq6h3USprintSerializerq7UTaskSerializerq8eUshutil]q9(Ucopyfileq:Uignore_patternsq;Ucopytreeq<Uget_archive_formatsq=Ucopyfileobjq>Uregister_archive_formatq?Ucopymodeq@Umake_archiveqAUmoveqBUunregister_archive_formatqCUrmtreeqDUErrorqEUcopyqFU	ExecErrorqGUcopy2qHUSpecialFileErrorqIUcopystatqJUWindowsErrorqKeUboard.serializers]qL(h6h3h7h8eUscrum.settings]qM(UUSE_L10NqNULANGUAGE_CODEqOUUSE_TZqPUUSE_I18NqQU	DATABASESqRU	TIME_ZONEqSU
+STATIC_URLqTUROOT_URLCONFqUUTEMPLATE_DEBUGqVUWSGI_APPLICATIONqWUMIDDLEWARE_CLASSESqXUDEBUGqYUALLOWED_HOSTSqZU
+SECRET_KEYq[UINSTALLED_APPSq\UBASE_DIRq]eu.
