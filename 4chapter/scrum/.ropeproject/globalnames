@@ -3,6 +3,8 @@ scrum.wsgi]qUapplicationqaUboard.migrations.0001_initial]qU	MigrationqaUs
 UspawnlpqUexeclpqUenvironqUspawnvpqUspawnlqUexecvpqUmakedirsqUlinesepqUP_WAITqUspawnvqUspawnveqUexecvpeqUunsetenvqUSEEK_SETqUgetenvqUpopen2qUwalkqUspawnleqUexeclqUnameqUSEEK_ENDqUspawnlpeq U	P_NOWAITOq!UP_NOWAITq"U
 removedirsq#Urenamesq$Uspawnvpeq%Uexeclpeq&eUboard.migrations]U
 board.urls]q'Urouterq(aUmanage]U
-scrum.urls]q)Uurlpatternsq*aUboard.models]q+(USprintq,UTaskq-eUboard.tests]Uboard.views]q.(UUserViewSetq/USprintViewSetq0UTaskViewSetq1UDefaultsMixinq2UUserq3eUboard]U(board.migrations.0002_auto_20151004_0627]q4haUboard.admin]Uboard.serializers_old_01]q5(UUserSerializerq6h3USprintSerializerq7UTaskSerializerq8eUshutil]q9(Ucopyfileq:Uignore_patternsq;Ucopytreeq<Uget_archive_formatsq=Ucopyfileobjq>Uregister_archive_formatq?Ucopymodeq@Umake_archiveqAUmoveqBUunregister_archive_formatqCUrmtreeqDUErrorqEUcopyqFU	ExecErrorqGUcopy2qHUSpecialFileErrorqIUcopystatqJUWindowsErrorqKeUboard.serializers]qL(h6h3h7h8eUscrum.settings]qM(UUSE_L10NqNULANGUAGE_CODEqOUUSE_TZqPUUSE_I18NqQU	DATABASESqRU	TIME_ZONEqSU
-STATIC_URLqTUROOT_URLCONFqUUTEMPLATE_DEBUGqVUWSGI_APPLICATIONqWUMIDDLEWARE_CLASSESqXUDEBUGqYUALLOWED_HOSTSqZU
-SECRET_KEYq[UINSTALLED_APPSq\UBASE_DIRq]eu.
+scrum.urls]q)Uurlpatternsq*aUboard.models]q+(USprintq,UTaskq-eUboard.tests]Uboard.views]q.(UUserViewSetq/USprintViewSetq0UTaskViewSetq1UDefaultsMixinq2UUserq3eUboard.forms]q4(USprintFilterq5h3U
+TaskFilterq6U
+NullFilterq7eUboard]U(board.migrations.0002_auto_20151004_0627]q8haUboard.admin]Uboard.serializers_old_01]q9(UUserSerializerq:h3USprintSerializerq;UTaskSerializerq<eUshutil]q=(Ucopyfileq>Uignore_patternsq?Ucopytreeq@Uget_archive_formatsqAUcopyfileobjqBUregister_archive_formatqCUcopymodeqDUmake_archiveqEUmoveqFUunregister_archive_formatqGUrmtreeqHUErrorqIUcopyqJU	ExecErrorqKUcopy2qLUSpecialFileErrorqMUcopystatqNUWindowsErrorqOeUboard.serializers]qP(h:h3h;h<eUscrum.settings]qQ(UUSE_L10NqRULANGUAGE_CODEqSUUSE_TZqTUUSE_I18NqUU	DATABASESqVU	TIME_ZONEqWU
+STATIC_URLqXUROOT_URLCONFqYUTEMPLATE_DEBUGqZUWSGI_APPLICATIONq[UMIDDLEWARE_CLASSESq\UDEBUGq]UALLOWED_HOSTSq^U
+SECRET_KEYq_UINSTALLED_APPSq`UBASE_DIRqaeu.
