@@ -1,0 +1,10 @@
+€}q(U
+scrum.wsgi]qUapplicationqaUboard.migrations.0001_initial]qU	MigrationqaUscrum]Uosq]q(Upopen4qUexecleq	Upopen3q
+USEEK_CURqUspawnlpqUexeclpqUenvironqUspawnvpqUspawnlqUexecvpqUmakedirsqUlinesepqUP_WAITqUspawnvqUspawnveqUexecvpeqUunsetenvqUSEEK_SETqUgetenvqUpopen2qUwalkqUspawnleqUexeclqUnameqUSEEK_ENDq Uspawnlpeq!U	P_NOWAITOq"UP_NOWAITq#U
+removedirsq$Urenamesq%Uspawnvpeq&Uexeclpeq'eUmanage]Uboard.migrations]U
+board.urls]q(Urouterq)aUboard.views]q*(UUserViewSetq+USprintViewSetq,UTaskViewSetq-UDefaultsMixinq.UUserq/eU
+scrum.urls]q0Uurlpatternsq1aUboard.tests]Uboard.forms]q2(USprintFilterq3h/U
+TaskFilterq4U
+NullFilterq5eUboard]Uboard.models]q6(USprintq7UTaskq8eUshutilq9]q:(Ucopyfileq;Uignore_patternsq<Ucopytreeq=Uget_archive_formatsq>Ucopyfileobjq?Uregister_archive_formatq@UcopymodeqAUmake_archiveqBUmoveqCUunregister_archive_formatqDUrmtreeqEUErrorqFUcopyqGU	ExecErrorqHUcopy2qIUSpecialFileErrorqJUcopystatqKUWindowsErrorqLeUboard.serializers]qM(USprintSerializerqNUUserSerializerqOh/UTaskSerializerqPeUscrum.settings]qQ(U	TEMPLATESqRUUSE_L10NqSULANGUAGE_CODEqTUUSE_TZqUUUSE_I18NqVU	DATABASESqWU	TIME_ZONEqXU
+STATIC_URLqYUROOT_URLCONFqZUWSGI_APPLICATIONq[UMIDDLEWARE_CLASSESq\UDEBUGq]UALLOWED_HOSTSq^U
+SECRET_KEYq_UBASE_DIRq`UINSTALLED_APPSqaeu.

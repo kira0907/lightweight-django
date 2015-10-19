@@ -1,0 +1,8 @@
+€}q(Uboard.migrations.0001_initial]qU	MigrationqaU
+scrum.wsgi]qUapplicationqaUboard.views]q(UUserViewSetqUSprintViewSetqUTaskViewSetq	UDefaultsMixinq
+UUserqeUosq]q(Upopen4qUexecleqUpopen3qUSEEK_CURqUspawnlpqUexeclpqUenvironqUspawnvpqUspawnlqUexecvpqUmakedirsqUlinesepqUP_WAITqUspawnvqUspawnveqUexecvpeqUunsetenvqUSEEK_SETqUgetenvq Upopen2q!Uwalkq"Uspawnleq#Uexeclq$Unameq%USEEK_ENDq&Uspawnlpeq'U	P_NOWAITOq(UP_NOWAITq)U
+removedirsq*Urenamesq+Uspawnvpeq,Uexeclpeq-eUmanage]Uboard.migrations]U
+board.urls]q.Urouterq/aUscrum]U
+scrum.urls]q0Uurlpatternsq1aUboard.admin]Uboard.tests]Uboard]Uboard.models]q2(USprintq3UTaskq4eUshutilq5]q6(Ucopyfileq7Uignore_patternsq8Ucopytreeq9Uget_archive_formatsq:Ucopyfileobjq;Uregister_archive_formatq<Ucopymodeq=Umake_archiveq>Umoveq?Uunregister_archive_formatq@UrmtreeqAUErrorqBUcopyqCU	ExecErrorqDUcopy2qEUSpecialFileErrorqFUcopystatqGUWindowsErrorqHeUboard.serializers]qI(UUserSerializerqJhUSprintSerializerqKUTaskSerializerqLeUscrum.settings]qM(UUSE_L10NqNULANGUAGE_CODEqOUUSE_TZqPUUSE_I18NqQU	DATABASESqRU	TIME_ZONEqSU
+STATIC_URLqTUROOT_URLCONFqUUTEMPLATE_DEBUGqVUWSGI_APPLICATIONqWUMIDDLEWARE_CLASSESqXUDEBUGqYUALLOWED_HOSTSqZU
+SECRET_KEYq[UINSTALLED_APPSq\UBASE_DIRq]eu.
