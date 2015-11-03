@@ -20,11 +20,13 @@
 
 ## 스터디 Material
 
-스터디를 하면서 매 챕터별 매터리얼은 꼭 남겨주시길 바랍니다. 모든 자료는 Github에서 오픈을 할 예정이고요. 어떤 형태로든 남겨주시길 원하지만 되도록 IPython notebook이 되길 바랍니다.
+스터디를 하면서 매 챕터별 매터리얼을 남겨주시길 바랍니다.
 
 ---
 
-## 커리큘럼
+## Schedule
+
+### Part 1.
 
 seq.|날짜|내용|담당자|Open Session
 ---|---|---|---|---
@@ -33,6 +35,25 @@ seq.|날짜|내용|담당자|Open Session
 3|2015/09/19|Chapter 3. Building a Static Site Generator|장익제|Git(정광윤)
 4|2015/10/03|Chapter 4. Building a REST API|최경일|
 5|2015/10/10|Chapter 5. Client-Side Django with Backbone.js|임대림|
-6|2015/10/17|Chapter 6. Single-Page Web Application||
+6|2015/10/17|Chapter 6. Single-Page Web Application|장익제|
 7|2015/10/24|Chapter 7. Real-Time Django|정광윤|
-8|2015/10/31|Chapter 8. Communication Between Django and Tornado||
+8|2015/10/31|Chapter 8. Communication Between Django and Tornado|박성진|
+
+### Part 2.
+
+Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 수 있도록 튜토리얼을 진행할 예정이며 좋은 튜토리얼 있으면 공유 및 신청받습니다.
+
+날짜|Session|내용|담당자
+---|---|---
+2015/11/14|Tutorial|Django Rest Framework Tutorial|최경일
+2015/11/14|Material|Chapter 1,2,3 요약|
+2015/11/21|Tutorial||
+2015/11/21|Material|Chapter 4. Building a REST API|
+2015/11/28|Tutorial||
+2015/11/28|Material|Chapter 5. Client-Side Django with Backbone.js|
+2015/12/05|Tutorial||
+2015/12/05|Material|Chapter 6. Single-Page Web Application|
+2015/12/12|Tutorial||
+2015/12/12|Material|Chapter 7. Real-Time Django|
+2015/12/19|Tutorial||
+2015/12/19|Material|Chapter 8. Communication Between Django and Tornado|
