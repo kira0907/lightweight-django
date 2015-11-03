@@ -44,7 +44,7 @@ seq.|날짜|내용|담당자|Open Session
 Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 수 있도록 튜토리얼을 진행할 예정이며 좋은 튜토리얼 있으면 공유 및 신청받습니다.
 
 날짜|Session|내용|담당자
----|---|---
+---|---|---|---
 2015/11/14|Tutorial|Django Rest Framework Tutorial|최경일
 2015/11/14|Material|Chapter 1,2,3 요약|
 2015/11/21|Tutorial||
