@@ -34,6 +34,8 @@ seq.|날짜|내용|담당자|Open Session
 7|2015/10/24|Chapter 7. Real-Time Django|정광윤|
 8|2015/10/31|Chapter 8. Communication Between Django and Tornado|박성진|
 
+---
+
 ### Part 2.
 
 1. 장소: 미정
@@ -56,6 +58,8 @@ Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 
 2015/12/12|Material|Chapter 7. Real-Time Django|
 2015/12/19|Tutorial||
 2015/12/19|Material|Chapter 8. Communication Between Django and Tornado|
+
+---
 
 ### Part 3.
 
