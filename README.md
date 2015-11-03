@@ -2,10 +2,7 @@
 
 ## 스터디 정보
 
-1. Lightweight Django 책을 통해 Django Study
-2. 장소: 강남역 에이블스퀘어
-3. 매주 토요일 오전 10시-12시
-4. 시작: 2015년 9월 5일 토요일
+Lightweight Django 책을 통해 Django Study하는 소그룹입니다.
 
 ---
 
@@ -18,15 +15,13 @@
 
 ---
 
-## 스터디 Material
-
-스터디를 하면서 매 챕터별 매터리얼을 남겨주시길 바랍니다.
-
----
-
 ## Schedule
 
 ### Part 1.
+
+1. 장소: 강남역 에이블스퀘어
+2. 매주 토요일 오전 10시-12시
+3. 시작: 2015년 9월 5일
 
 seq.|날짜|내용|담당자|Open Session
 ---|---|---|---|---
@@ -40,6 +35,10 @@ seq.|날짜|내용|담당자|Open Session
 8|2015/10/31|Chapter 8. Communication Between Django and Tornado|박성진|
 
 ### Part 2.
+
+1. 장소: 미정
+2. 매주 토요일 오전 10시-12시
+3. 시작: 2015년 11월 14일
 
 Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 수 있도록 튜토리얼을 진행할 예정이며 좋은 튜토리얼 있으면 공유 및 신청받습니다.
 
@@ -57,3 +56,7 @@ Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 
 2015/12/12|Material|Chapter 7. Real-Time Django|
 2015/12/19|Tutorial||
 2015/12/19|Material|Chapter 8. Communication Between Django and Tornado|
+
+### Part 3.
+
+Part 2를 진행하면서 추후 결정하겠습니다. 예상 시작 시점은 2016년 1월입니다.
