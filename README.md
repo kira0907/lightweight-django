@@ -12,6 +12,7 @@ Lightweight Django 책을 통해 Django Study하는 소그룹입니다.
 
 - Shop: http://shop.oreilly.com/product/0636920032502.do
 - Example Source: https://github.com/lightweightdjango/examples
+- Errata: http://www.oreilly.com/catalog/errata.csp?isbn=0636920032502
 
 ---
 
