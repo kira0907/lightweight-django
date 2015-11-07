@@ -48,9 +48,9 @@ Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 
 날짜|Session|내용|담당자
 ---|---|---|---
 2015/11/14|Material|Chapter 1,2,3 요약|정광윤
-2015/11/14|Tutorial|Django Rest Framework Tutorial|최경일
+2015/11/14|Tutorial|[Django Rest Framework Tutorial](http://www.django-rest-framework.org/#tutorial)|최경일
 2015/11/21|Material|Chapter 4. Building a REST API|
-2015/11/21|Tutorial|Backbonejs Example Todos Tutorial|장익제
+2015/11/21|Tutorial|[Backbonejs Example Todos Tutorial](http://backbonejs.org/#examples-todos)|장익제
 2015/11/28|Material|Chapter 5. Client-Side Django with Backbone.js|
 2015/11/28|Tutorial|Django+Backbonejs Tutorial|
 2015/12/05|Material|Chapter 6. Single-Page Web Application|
