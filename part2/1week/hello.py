@@ -12,7 +12,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', os.urandom(32))
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
 
 settings.configure(
-    DEBUG=DEBUG, 
+    DEBUG=DEBUG,
     SECRET_KEY=SECRET_KEY,
     ALLOWED_HOSTS=ALLOWED_HOSTS,
     ROOT_URLCONF=__name__,
@@ -29,7 +29,7 @@ def index(request):
 
 # urls
 urlpatterns = (
-    url(r'^$', index), 
+    url(r'^$', index),
 )
 
 # wsgi
