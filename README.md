@@ -57,7 +57,8 @@ Part 1에서 했던 교재를 복습하되 나머지 시간에 직접 코딩할 
 2015/12/05|Basic|파이썬 웹 프로그래밍 - Chapter 4. Django의 핵심 기능|오정배
 2015/12/05|Intermediate|Chapter 6. Single-Page Web Application|
 2015/12/05|Tutorial|Django+Tornado|
-2015/12/12|Material|Chapter 7. Real-Time Django|
+2015/12/12|Basic|파이썬 웹 프로그래밍 - Chapter 5. 실습 예제 확장하기|
+2015/12/12|Intermediate|Chapter 7. Real-Time Django|
 2015/12/12|Tutorial|Django+Redis|정광윤
 2015/12/19|Material|Chapter 8. Communication Between Django and Tornado|
 2015/12/19|Tutorial|미정|
